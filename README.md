@@ -1,7 +1,7 @@
 
 
-# Professional README-Generator
-https://github.com/abdinajibliban/Professional README-Generator
+# README-Generator
+https://github.com/abdinajibliban/README-Generator
 # Description
 This is a README generator that lets developers quickly create a professional README for a new project. 
 # Table of Contents 
@@ -12,7 +12,7 @@ This is a README generator that lets developers quickly create a professional RE
 * [Tests](#tests)
 * [Questions](#questions)
 # Installation
-Here are the dependencies you need to install to run the application: fs inquirer
+Here are the dependencies you need to install to run the application: inquirer & fs
 # Usage
 To use this app, run it in the following locations: Terminal/Gitbash
 # License
