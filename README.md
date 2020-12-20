@@ -3,7 +3,7 @@
 # README-Generator
 https://github.com/abdinajibliban/README-Generator
 # Description
-This is a README generator that lets developers quickly create a professional README for a new project. 
+ This is a README generator that lets developers quickly create a professional README for a new project.
 # Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
