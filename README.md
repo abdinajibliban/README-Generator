@@ -3,14 +3,18 @@
 # README-Generator
 https://github.com/abdinajibliban/README-Generator
 # Description
- This is a README generator that lets developers quickly create a professional README for a new project.
+This is a README generator that lets developers quickly create a professional README for a new project. 
 # Table of Contents 
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+- [README-Generator](#readme-generator)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+  - [Walkthrough Video](#walkthrough-video)
 # Installation
 Here are the dependencies you need to install to run the application: inquirer & fs
 # Usage
@@ -24,3 +28,5 @@ This project is licensed under the MIT license.
 To run the test, enter the following command: node index.js
 # Questions
 If you have any questions, open an issue or contact abdinajibliban at : abdinajibliban@gmail.com.
+## Walkthrough Video
+* [Walkthrough Video Link](https://www.youtube.com/watch?v=2DCrVyRiCeg)
